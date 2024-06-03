@@ -24,7 +24,7 @@
         <scoped_administration>false</scoped_administration>
         <short_description>test for deployer</short_description>
         <source>x_asmln_test_sandb</source>
-        <store_correlation_id/>
+        <store_correlation_id>REPOAPP0001321024</store_correlation_id>
         <store_url/>
         <subscription_entitlement/>
         <sys_class_name>sys_app</sys_class_name>
@@ -32,9 +32,9 @@
         <sys_created_by>Sanjay_admin</sys_created_by>
         <sys_created_on>2024-06-03 13:52:46</sys_created_on>
         <sys_id>0100e775fbe646108a13f2896eefdc4b</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>Sanjay_admin</sys_updated_by>
-        <sys_updated_on>2024-06-03 13:52:46</sys_updated_on>
+        <sys_updated_on>2024-06-03 13:57:28</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
@@ -45,6 +45,6 @@
         <x_snc_devtools_documentation_url/>
         <x_snc_devtools_maintainer/>
         <x_snc_devtools_maintainer_email/>
-        <x_snc_devtools_repo_url/>
+        <x_snc_devtools_repo_url>https://github.com/vsanjaynamburi/Test-Sandbox</x_snc_devtools_repo_url>
     </sys_app>
 </record_update>
