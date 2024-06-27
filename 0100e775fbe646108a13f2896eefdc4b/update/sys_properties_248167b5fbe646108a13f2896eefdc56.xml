@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <ignore_cache>true</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_asmln_test_sandb.test2</name>
+        <read_roles/>
+        <suffix>test2</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>Sanjay_admin</sys_created_by>
+        <sys_created_on>2024-06-03 13:59:28</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>248167b5fbe646108a13f2896eefdc56</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_asmln_test_sandb.test2</sys_name>
+        <sys_package display_value="Test Sandbox" source="x_asmln_test_sandb">0100e775fbe646108a13f2896eefdc4b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Test Sandbox">0100e775fbe646108a13f2896eefdc4b</sys_scope>
+        <sys_update_name>sys_properties_248167b5fbe646108a13f2896eefdc56</sys_update_name>
+        <sys_updated_by>Sanjay_admin</sys_updated_by>
+        <sys_updated_on>2024-06-03 13:59:28</sys_updated_on>
+        <type>string</type>
+        <value/>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=248167b5fbe646108a13f2896eefdc56"/>
+</record_update>
